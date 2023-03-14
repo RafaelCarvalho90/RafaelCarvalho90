@@ -17,6 +17,6 @@ Começe por aqui!!!
 
 
 
-![Imagem do WhatsApp de 2023-03-14 à(s) 19 47 31](https://user-images.githubusercontent.com/106347121/225159222-9162886a-fc24-4f9c-9878-61241c7094fd.jpg)
+
 
 
