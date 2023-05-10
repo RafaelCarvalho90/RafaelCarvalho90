@@ -15,7 +15,7 @@ Começe por aqui!!!
 
 
 
-![Rafael Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCarvalho90&show_icons=true&theme=highcontrast)
+![Rafael Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelCarvalho90&show_icons=true&theme=dracula)
 <!-- "COMENTÁRIO -->"
 <!-- "COMENTÁRIO" -->
 
