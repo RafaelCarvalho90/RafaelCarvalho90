@@ -23,7 +23,7 @@ Começe por aqui!!!
 
 
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCarvalho90&theme=dracula&langs_count=6&layout=compact&hide_border=true" /></div>
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCarvalho90&theme=dracula&langs_count=&&layout=compact&hide_border=true" /></div>
 
 
 
