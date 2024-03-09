@@ -16,7 +16,7 @@ Começe por aqui!!!
 - [x]🌱 React Native ....
 
 - Trilha Profissional 2024
-- [ ]🌱 Python Quantitati Trading ....
+- [ ]🌱 Python quantitative trading analyst....
 - [ ]🌱 Python LSTM ....
 - 
 - 
@@ -35,6 +35,9 @@ Começe por aqui!!!
 
 
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCarvalho90&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+
+
+![snake animation](https://github.com/<RafaelCarvalho90>/<RafaelCarvalho90>/blob/output/github-contribution-grid-snake2.svg)
 
 
 
